@@ -1,0 +1,38 @@
+{
+  "root": true,
+  "api": {
+    "projectId": "",
+    "dataset": "production"
+  },
+  "project": {
+    "name": "Sandocs",
+    "basePath": "/studio"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/desk-tool",
+    "@sanity/code-input",
+    "@sanity/orderable-document-list",
+    "table",
+    "asset-source-unsplash"
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "@sanity/vision"
+      ]
+    }
+  },
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schema"
+    },
+    {
+      "implements": "part:@sanity/desk-tool/structure",
+      "path": "./src/deskStructure"
+    }
+  ]
+}

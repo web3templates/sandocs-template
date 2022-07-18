@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*Custom Styles Here*/
+
+/*! purgecss start ignore */
+@import "prism.css";
+/*! purgecss end ignore */
