@@ -4,7 +4,7 @@
     "description": "Sandocs is a Documentation starter template built with Next.js, TailwindCSS & Sanity CMS",
     "previewMedia": {
         "type": "image",
-        "src": "public/img/opengraph.jpg",
+        "src": "public/img/opengraph.png",
         "alt": "Sandocs Next.js Documentation Template"
     },
     "technologies": [{
