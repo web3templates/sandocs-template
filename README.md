@@ -1,6 +1,30 @@
 # Sandocs Documentation Template
 
-Sandocs is a JAMStack Documentation Template built with Next.js, Tailwind CSS & Sanity CMS.
+Sandocs is a JAMStack Documentation Template built with Next.js, Tailwind CSS & Sanity CMS built by [Web3Templates](https://web3templates.com/).
+
+[Click here to see live demo →](https://sandocs.vercel.app/)
+
+<a href="https://www.sanity.io/create?template=web3templates%2Fsandocs-template">
+<img width="259" alt="Deploy to Vercel & Sanity" src="https://user-images.githubusercontent.com/1884712/169833532-1007b9aa-1456-4386-9526-7b5b46b094ed.png">
+</a>
+
+###### Click the above button for one-click clone & deploy for this template. Read [quick start](#quick-start) guide below. 
+
+#### Template Preview
+
+![image](https://user-images.githubusercontent.com/1884712/179554008-fc32f768-4ca8-4b75-9074-9ffbb804b8b7.png)
+
+## Sandocs - Pro Version
+
+![image](https://user-images.githubusercontent.com/1884712/179554511-a16fd2d6-6e58-4a25-953c-7eaddc0b1a21.png)
+
+Pro version is available to purchase on https://web3templates.com which includes:
+
+- The Landing Page
+- Dark Mode
+- Remove Backlink
+- Personal License
+- 6 Months Support
 
 ## Quick Start
 
