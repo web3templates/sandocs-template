@@ -1,6 +1,6 @@
 # Sandocs Documentation Template
 
-Sandocs is a JAMStack Documentation Template built with Next.js, Tailwind CSS & Sanity CMS built by [Web3Templates](https://web3templates.com/).
+Sandocs is a JAMStack Documentation, Knowledge Base & Help Center Template built with Next.js, Tailwind CSS & Sanity CMS built by [Web3Templates](https://web3templates.com/).
 
 [Click here to see live demo →](https://sandocs.vercel.app/)
 
