@@ -4,7 +4,7 @@ Sandocs is a JAMStack Documentation, Knowledge Base & Help Center Template built
 
 [Click here to see live demo →](https://sandocs.vercel.app/)
 
-<a href="https://www.sanity.io/create?template=web3templates%2Fsandocs-template">
+<a href="https://vercel.com/new/clone?demo-title=Sandocs&demo-description=Sandocs%20Documentation%20Template&demo-url=https%3A%2F%2Fsandocs.vercel.app%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F179554008-fc32f768-4ca8-4b75-9074-9ffbb804b8b7.png&project-name=Sandocs&repository-name=sandocs-docs&repository-url=https://github.com/web3templates/sandocs-template/&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx">
 <img width="259" alt="Deploy to Vercel & Sanity" src="https://user-images.githubusercontent.com/1884712/169833532-1007b9aa-1456-4386-9526-7b5b46b094ed.png">
 </a>
 
@@ -40,7 +40,7 @@ To use this template and configure sanity and deploying to vercel, we recommend 
 - Import Demo Content (as seen in live demo)
 - Deploy to Vercel
 
-<a href="https://www.sanity.io/create?template=web3templates%2Fsandocs-template">
+<a href="https://vercel.com/new/clone?demo-title=Sandocs&demo-description=Sandocs%20Documentation%20Template&demo-url=https%3A%2F%2Fsandocs.vercel.app%2F&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F1884712%2F179554008-fc32f768-4ca8-4b75-9074-9ffbb804b8b7.png&project-name=Sandocs&repository-name=sandocs-docs&repository-url=https://github.com/web3templates/sandocs-template/&from=templates&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx">
 <img width="259" alt="Deploy to Vercel & Sanity" src="https://user-images.githubusercontent.com/1884712/169833532-1007b9aa-1456-4386-9526-7b5b46b094ed.png">
 </a>
 
@@ -80,6 +80,12 @@ or you can directly replace the project ID in the `/studio/sanity.json`
   },
   // ...
 ```
+
+### Copy Demo Content
+Before running this template, make sure you add your content or upload demo content provided by this template. Make sure `@sanity/cli` is installed globally. 
+
+Demo data is available in `.sanity-template/data/production.tar.gz`. Checkout [Sanity docs](https://www.sanity.io/docs/importing-data#d183adde8ef9) to import demo data instructions.
+
 
 ### Run Next.js frontend
 
